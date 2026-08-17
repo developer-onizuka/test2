@@ -1,6 +1,3 @@
-# test2
-
-``mermaid
 sequenceDiagram
     autonumber
     participant Client as Client PC / Browser
